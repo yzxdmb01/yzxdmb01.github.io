@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script src="../assets/js/jquery-1.9.1.min.js"></script>
+    <title>CSS练习</title>
+</head>
+<script>
+    function showDialog(){
+        $(".div_dialog").fadeIn(200);
+    }
+    function hideDialog(){
+        $(".div_dialog").fadeOut(200);
+    }
+</script>
+<style>
+    * {
+        /*border: 1px dashed;*/
+    }
+
+    h1 {
+        color: red;
+        font-size: 14px;
+    }
+
+    a:link {
+        color: green
+    }
+
+    a:hover {
+        color: red;
+        font-style: normal;
+        font-weight: bold;
+    }
+
+    #btn_test {
+        background: url(../assets/i/favicon.png) no-repeat center center;
+        cursor: help;
+    }
+
+    ul, li {
+        list-style: none
+    }
+
+    .box {
+        display: none;
+        width: 600px;
+        border: 1px solid #444;
+    }
+
+    .box .div1 {
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        float: left;
+    }
+
+    .box .div2 {
+        width: 100px;
+        height: 100px;
+        background-color: yellow;
+        float: left;
+    }
+
+    .box .div3 {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        float: left;
+    }
+
+    .box .clear {
+        clear: both;
+    }
+
+    .div_dialog {
+        width: 250px;
+        height: auto;
+        background-color: white;
+        box-shadow: 2px 2px 5px #888888;
+        border-radius: 5px;
+        padding: 10px 16px;
+        position: fixed;
+        left: 20%;
+        top: 20%;
+        min-width: 240px;
+        min-height: 130px;
+
+    }
+
+    .div_title {
+        font-size: 20px;
+        color: #6EB279;
+        border-bottom: dashed 1px #6EB279;
+        padding: 10px 0px;
+        white-space: nowrap;
+        height: 20px;
+        font-weight: bold;
+    }
+
+    .div_description {
+        font-size: 14px;
+        padding: 14px 0 10px 0;
+        text-indent: 16px;
+    }
+
+    .div_span {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        margin: 16px;
+        padding: 3px 2px;
+        justify-content: flex-end
+    }
+
+    .btn_span {
+        padding: 6px 10px;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        border-radius: 2px;
+        cursor: pointer;
+        font-size: 14px;
+        line-height: normal;
+        background: #21B384;
+        color: white;
+    }
+
+</style>
+<body>
+<h1>这是一个h1</h1>
+<a href="#">这是一个超链接</a>
+<ul>
+    <li>a</li>
+    <li>b</li>
+    <li>c</li>
+    <li>d</li>
+</ul>
+<input onclick="" type="button" value="我是一个按钮" id="btn_test"></input>
+<div class="box">
+    <div class="div1"></div>
+    <div class="div2"></div>
+    <div class="div3"></div>
+    <div class="clear"></div>
+</div>
+<div class="div_dialog" style="display: none" id="dialog">
+    <div class="div_title">提示！</div>
+    <div class="div_description">我是文字描述。</div>
+    <div class="div_span">
+        <span class="btn_span" onclick="hideDialog()">确认</span>
+        <span class="btn_span" onclick="hideDialog()">取消</span>
+    </div>
+</div>
+<button onclick="showDialog()">点击显示对话框</button>
+</body>
+</html>

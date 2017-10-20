@@ -39,13 +39,30 @@
 </head>
 <script src="assets/js/jquery-1.9.1.min.js"></script>
 <script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+<script src="assets/js/zepto.min.js"></script>
 <script>
     $(function () {
+        $("#divRed").hide();
+        $("#btnTap").on('tap', function (e) {
+            console.debug('tap', 'button:'+Date.parse(new Date()));
+            $("#divRed").show();
+        });
+        if(true){
+            $("#divMain").on('tap',function () {
+                console.debug('tap','divBlue:'+Date.parse(new Date()));
+            });
+        }
+        $("#btnClick").on('click',function () {
+           console.debug('onclick','button:'+Date.parse(new Date()));
+        });
+        $("#divRed").on('click',function () {
+            console.debug('click','divRed:'+Date.parse(new Date()));
+        });
         return;
         if (returnCitySN['cip'] == "221.214.49.98") {
             console.debug("在公司");
         } else {
-            alert(returnCitySN['cip']+","+returnCitySN['cname']);
+            alert(returnCitySN['cip'] + "," + returnCitySN['cname']);
             $("body").html("Hello World!");
         }
 
@@ -57,12 +74,22 @@
         if (r != null) return unescape(r[2]);
         return null;
     }
+
+
 </script>
 <body>
+<!--
 <a href="http://10.1.3.116:8080/apks/apk.html" target="view_window">安顾赢家APP下载</a></br></br>
 <a href="https://10.1.28.51" target="view_window">主机运维</a></br></br>
 <a href="http://192.168.1.126:8088/mapp-web/proposal/JoinHome?agentcode=0000222&productChannel=1" target="view_window">安顾赢家产品首页（本机）</a></br></br>
 <a href="http://agenthome.test.ergo-life.cn:8091/mapp-web/proposal/JoinHome?agentcode=0000222&productChannel=1"
    target="view_window">安顾赢家产品首页（测试）</a></br></br>
+-->
+<div style="background-color: #0a628f; width: 200px;height: 200px" id="divMain">
+    <button id="btnClick">button</button>
+    <button id="btnTap">tapButton</button>
+</div>
+<div style="height: 100px;width: 100px;background-color: red;opacity: 0.5;top:1px; position: fixed" id="divRed">
+</div>
 </body>
 </html>
