@@ -9,18 +9,39 @@
         opacity: 0.8;
         cursor: pointer;
         box-shadow: 3px 3px 13px #818181;
-        border-radius: 10px;
     }
 </style>
 <script>
     /*定义一个对象*/
-    function Person(){
+    var person = {
+        name: "小明",
+        age: 18,
+        action: ['eat', 'run', 'jump'],
+        eat: function (sth) {
+            console.debug(this.name + "恰" + sth);
+        }
+    };
+
+    function testImg() {
+        var ps1 = new Person();
+        ps1.name = "小王";
+        ps1.action = ["a","b","c"];
+        console.debug("ps1",ps1);
+        ps1.eat("苹果");
+
+    }
+
+
+    function Person() {
         this.name = null;
         this.age = 18;
-        this.laugh = function (){
-            alert("哈哈哈");
+        this.action = [];
+        this.eat = function (sth) {
+            console.debug(this.name + "恰" + sth);
         }
     }
+
+
 </script>
 
 <head>
@@ -43,14 +64,7 @@
             <input>
             <p>前言：</p>
             <p>这个小项目使用到了。。。。。。。。。。。。。。</p>
-            <img src="../assets/i/img_nuk.jpg" style="width: 10%;">
-            <img src="../assets/i/img_nuk.jpg" style="width: 10%;">
-            <img src="../assets/i/img_nuk.jpg" style="width: 10%;">
-            <img src="../assets/i/img_nuk.jpg" style="width: 10%;">
-            <img src="../assets/i/img_nuk.jpg" style="width: 10%;">
-            <img src="../assets/i/img_nuk.jpg" style="width: 10%;">
-            <img src="../assets/i/img_nuk.jpg" style="width: 10%;">
-            <img src="../assets/i/img_nuk.jpg" style="width: 10%;">
+            <img src="../assets/i/img_nuk.jpg" style="width: 10%;" onclick="testImg()">
         </section>
     </div>
     <!--尾部部分-->
