@@ -23,7 +23,7 @@ var S = {
         if (i !== -1) {
             S.UI.simulate(decodeURI(action).substring(i + 3));
         } else {
-            S.UI.simulate('大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||大脸|是|也罢||');
+            S.UI.simulate('大脸|是|也罢|大脸|是|也罢|大脸|是|也罢|大脸|是|也罢|大脸|是|也罢|大脸|是|也罢|大脸|是|也罢|大脸|是|也罢|大脸|是|也罢|大脸|是|也罢|大脸|是|也罢||');
         }
 
         S.Drawing.loop(function () {
@@ -356,9 +356,14 @@ S.Point = function (args) {
 
 
 S.Color = function (r, g, b, a) {
-    this.r = r;
-    this.g = g;
-    this.b = b;
+    var r2 = Math.random()*255>>0;//>>0移位运算  变为整数了
+    var g2 = Math.random()*255>>0;
+    var b2 = Math.random()*255>>0;
+
+
+    this.r = r2;
+    this.g = g2;
+    this.b = b2;
     this.a = a;
 };
 
