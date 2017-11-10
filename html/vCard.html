@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <script src="../assets/js/jquery-1.9.1.min.js"></script>
+    <title>Title</title>
+</head>
+<style>
+    ul {
+        background-color: #FFF;
+        margin: 0.6em;
+        border-radius: 10px;
+        box-shadow: 3px 3px 13px #818181;
+        padding: 1em;
+    }
+
+    ul li {
+        list-style: none;
+        min-height: 2em;
+        line-height: 2em;
+        font-size: 1.3em;
+        border-bottom: 1px dashed;
+    }
+
+    ul li:last-child {
+        border: none;
+    }
+
+    ul li span {
+        right: 2.5em;
+        position: absolute;
+    }
+
+</style>
+<body>
+<ul id="ulTest" onclick="ulClick()">
+    <li><a>姓名</a><span>小明</span></li>
+    <li>性别：男</li>
+    <li>手机号码：13111111111</li>
+    <li>职别：初级选手</li>
+    <li>个人格言：海阔任鱼跃，天高任鸟飞。海阔任鱼跃，天高任鸟飞。海阔任鱼跃，天高任鸟飞。</li>
+</ul>
+</body>
+<script>
+    function ulClick() {
+        $("#ulTest").animate({
+            left: -100
+        }, 1000);
+
+    }
+</script>
+
+</html>
