@@ -5,22 +5,25 @@
 
     <meta charset="UTF-8">
 
-    <title>跳转中...</title>
-
+    <title>abc</title>
+    
+    <script src="http://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js"/>
+    <script>
+        var obj = new WxLogin({
+            id:"wxqr", 
+            appid: "wxb9e2238ff05c7bd7", 
+            scope: "snsapi_login",
+            redirect_uri: "https://test.2or3m.com/newWeb/binding_phone.html",
+            state: "2or3m",
+            style: "white"
+        });
+    </script>
 </head>
 
 <body>
-    <a href="znn://aa.bb:80/test?p=12&d=1">test</a>
-
-<script src="assets/js/canvas_demo.js"></script>
-
-<script>
-    //window.location.href = "http://man.linuxde.net/";
-</script>
     
-    <frameset cols="25%,50%,25%">
-        <frame src="http://wxs.test.ergo-life.cn/ergolifeweb/OldMan/travelingDomestic?productcode=nets0191" />
-    </frameset>
+<div id="wxqr" class="wxqr"></div>
+
 </body>
 
 </html>
