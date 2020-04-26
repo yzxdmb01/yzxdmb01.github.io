@@ -269,7 +269,7 @@ function showID()
 	str="";
 	for(var i=0;i<resultArray.length;i++)
 	{
-		str=str+"<div><div>性　　别： "+sexstr+"</div><div>出生日期： "+years+"年"+months+"月"+days+"日</div><div>发 证 地： "+citystr+"</div><div>身 份 证： "+resultArray[i]+"</div><div></div></div>";
+		str=str+"<div>身 份 证： "+resultArray[i]+"</div>";
 	}
 	document.getElementById("showID").innerHTML=str;
 }
