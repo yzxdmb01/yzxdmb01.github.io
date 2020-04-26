@@ -200,7 +200,6 @@ function showID()
 		if(document.all.months.options[i].selected==true)
 		{
 			months=document.all.months.options[i].value;
-			if(months<10) months="0"+String(months)
 		}
 	}
 	var selectOptions6=document.all.days.options;
@@ -209,7 +208,6 @@ function showID()
 		if(document.all.days.options[i].selected==true)
 		{
 			days=document.all.days.options[i].value;
-			if(days<10) days="0"+String(days)
 		}
 	}
 	var nums=1;
