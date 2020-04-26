@@ -267,7 +267,7 @@ function showID()
 	str="";
 	for(var i=0;i<resultArray.length;i++)
 	{
-		str=str+"<div oncolic='copyText(\'this.innerHTML\')'>身 份 证： "+resultArray[i]+"</div>";
+		str=str+"<div onclick=copyText(\'"+resultArray[i]+"\')>身 份 证： "+resultArray[i]+"</div>";
 	}
 	document.getElementById("showID").innerHTML=str;
 }
