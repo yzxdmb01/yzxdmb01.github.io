@@ -1,7 +1,7 @@
 {
   "sites": [
     { //列子，自己找Api
-      "key": "300看世界",
+      "key": "i",
       "name": "300看世界",
       "type": 3,
       "api": "csp_AppYs2",
@@ -100,8 +100,8 @@
       "ext": "https://yzxdmb01.github.io/sub/xpath/Gimy.json"
     },
     {
-      "key": "乐猪TV",
-      "name": "乐猪TV",
+      "key": "程巨树",
+      "name": "程巨树",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -129,19 +129,7 @@
       "filterable": 0
     }
   ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1BhbmRvcmEyMjc3L25pdGVAbWFzdGVyL2xpdmUvbGl2ZS50eHQ="
-          ]
-        }
-      ]
-    }
-  ],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="]}]}],
   "parses": [
     {
       "name": "解析聚合",
