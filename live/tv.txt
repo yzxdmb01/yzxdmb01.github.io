@@ -868,11 +868,6 @@ dys,http://zzy789.xyz/bili.php?id=7777
 LexBurner,http://zzy789.xyz/bili.php?id=11365
 -猫大人-,http://zzy789.xyz/bili.php?id=723
 
-🐅｜虎牙,#genre#
-英雄联盟赛事,https://live.52sf.ga/huya/lpl
-暴雪频道,https://live.52sf.ga/huya/blizzardgame1
-ESLCSGO,https://live.52sf.ga/huya/eslcsgo
-
 🐳｜斗鱼,#genre#
 罗翔法考,https://live.52sf.ga/douyu/8805#https://liveb.52sf.ga/douyu/8805
 张雪峰考研,https://live.52sf.ga/douyu/961020#https://liveb.52sf.ga/douyu/961020
@@ -1292,6 +1287,8 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 ##
 
 🍊｜虎牙,#genre#
+武林外传,https://epg.112114.xyz/huya/21059598
+搞笑的一家人,https://epg.112114.xyz/huya/11342402
 铁齿铜ya纪晓岚 经典铁三角组合 - 小木子先生丶,http://61.241.131.18/tx.rtmp.huya.com/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 滚滚长江东逝水 - 鯎爺,http://61.241.131.18/tx.rtmp.huya.com/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 英叔护体 | 林正英搞笑僵尸系列 - 7喜先生,http://61.241.131.18/tx.rtmp.huya.com/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
