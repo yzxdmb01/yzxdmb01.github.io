@@ -1,3 +1,8 @@
+🌲｜程巨树,#genre#
+武林外传,https://live.52sf.ga/huya/21059598
+地下交通站,https://live.52sf.ga/huya/11342433
+老实敦厚的笑笑,https://live.52sf.ga/bilibili/7777
+宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
 👍｜4K,#genre#
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
@@ -694,6 +699,68 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 
+
+👶｜少儿,#genre#
+宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
+北京卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8?zbeid
+北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
+北京卡酷少儿,http://39.135.32.10:6610/000000001000/kakukaton/1.m3u8?IASHttpSessionId=OTT?zbeid
+北京少儿,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+倒霉熊,http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
+动画电影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
+动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
+动画小天地,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
+儿歌大全,http://118.26.120.23:55336/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
+哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
+哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+哈哈炫动少儿,http://39.135.32.24:6610/000000001000/1000000002000000172/1.m3u8?xtkg
+14台少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
+14台少儿,http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8?zyangd
+14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
+奥特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
+宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
+河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
+黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
+嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+嘉佳卡通,http://39.135.32.24:6610/000000001000/1000000002000025964/1.m3u8?xtkg
+江西少儿家庭,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls?zjiangxd
+江西少儿家庭,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?zjiangxd
+金鹰卡通,http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
+金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+金鹰卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
+卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
+卡酷少儿,http://39.135.32.24:6610/000000001000/7589856436881630561/1.m3u8?xtkg
+猫和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
+名贞探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
+南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+宁波少儿,http://live1.cloud.nbtv.cn/f9af570c981c4c618f919ea91b93966f/h264_500k_ts/index.m3u8?type=flv2hls_m3u8?zzhed
+亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
+少儿14台,http://117.148.179.157/PLTV/88888888/224/3221231648/index.m3u8?zzhongd
+少儿14台,http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
+少儿14台,http://39.135.32.7:6610/000000001000/cctv-14/1.m3u8?IASHttpSessionId=OTT?zzhongd
+深圳少儿,http://ye23.win/iptv/sztv.php?id=7?zguangd
+狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+童年经典,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
+玩具乐园,http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
+小猪佩寄,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
+小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+优漫卡通,http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
+优漫卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?xtkg
+雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
+浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+
+
 🏀｜体育,#genre#
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -799,7 +866,7 @@ MG2,http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8?hls
 53MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225853/index.m3u8?hls
 54MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225852/index.m3u8?hls
 
-🍊Bilibili(ljk播放器),#genre#
+🍊Bilibili,#genre#
 老实敦厚的笑笑,https://live.52sf.ga/bilibili/7777
 24小时连播蓝胖子,http://zzy789.xyz/bili.php?id=482946
 【哆啦A梦】旧版全集,http://zzy789.xyz/bili.php?id=1717236
@@ -867,60 +934,6 @@ MG2,http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8?hls
 ⭐经典动漫播不停⭐,http://zzy789.xyz/bili.php?id=21395123
 LexBurner,http://zzy789.xyz/bili.php?id=11365
 -猫大人-,http://zzy789.xyz/bili.php?id=723
-
-🐳｜斗鱼,#genre#
-罗翔法考,https://live.52sf.ga/douyu/8805#https://liveb.52sf.ga/douyu/8805
-张雪峰考研,https://live.52sf.ga/douyu/961020#https://liveb.52sf.ga/douyu/961020
-四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
-体育,http://pull-g.kktv8.com/livekktv/57588147.flv
-HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
-WWE清流1路 WWE往期精彩节目清流 体育每晚九点直播,http://txtest-xp2p.p2p.huya.com/src/1099531728844-1099531728844-86333429674672128-2199063581144-10057-A-0-1.xs?wsSecret=23e937bf5f8a82d5367679fbd94c00be&wsTime=6246cb81&u=0&seqid=16487203839200000&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103
-冲刺吧丢小丢 灌篮高手漫画速体育读,http://txtest-xp2p.p2p.huya.com/src/1099531627798-1099531627798-85899440409280512-2199063379052-10057-A-0-1.xs?wsSecret=8132ca5d918f77af1c66b25415f6b4c3&wsTime=6246cb8b&u=0&seqid=16487203935400000&ctype=tars_mobile&fs=bgct&t=103
-看我的箭准不准 原始生存40天，体育大佬组队PK,http://txtest-xp2p.p2p.huya.com/src/1099531627787-1099531627787-85899393164640256-2199063379030-10057-A-0-1.xs?wsSecret=1f4b09f389f11af0d205a70ca0a4c7af&wsTime=6246cb8f&u=0&seqid=16487203971330000&ctype=tars_mobile&fs=bgct&t=103
-足协杯上海专场 玻利维亚足球专场体育,http://txtest-xp2p.p2p.huya.com/src/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs?wsSecret=15b1eb28dc39ad6c322f148b7e6e0418&wsTime=6246cba6&u=0&seqid=16487204206960000&ctype=tars_mobile&fs=bgct&t=103
-格斗迷-小亮 地域牢笼！铁笼赛专场体育！,http://txtest-xp2p.p2p.huya.com/src/1099531627899-1099531627899-85899874200977408-2199063379254-10057-A-0-1.xs?wsSecret=c839f2de2c5f2a36245d4e37a0b920d2&wsTime=6246cba9&u=0&seqid=16487204234400000&ctype=tars_mobile&fs=bgct&t=103
-多特蒙德专场 21/22德甲多特专场,http://txtest-xp2p.p2p.huya.com/src/1099531728771-1099531728771-86333116142059520-2199063580998-10057-A-0-1.xs?wsSecret=8970b533023ef8c64cf241a7233f45b4&wsTime=6246cbad&u=0&seqid=16487204275270000&ctype=tars_mobile&fs=bgct&t=103
-美洲杯小剧场 一步之遥？体育丈量内马尔与梅西之间的距离,http://txtest-xp2p.p2p.huya.com/src/1099531728838-1099531728838-86333403904868352-2199063581132-10057-A-0-1.xs?wsSecret=e421ea01b4feec4d8eb6b4323d0d5f4f&wsTime=6246cbaf&u=0&seqid=16487204298560000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
-厄瓜多尔足球专场 体育厄瓜多尔足球专场,http://txtest-xp2p.p2p.huya.com/src/1099531728831-1099531728831-86333373840097280-2199063581118-10057-A-0-1.xs?wsSecret=474d4839f57cc019cb12b6236f640af4&wsTime=6246cbb4&u=0&seqid=16487204343420000&ctype=tars_mobile&fs=bgct&t=103
-拳迷豪哥 超震撼裸拳擂台对决 体育拳拳到肉 血沫横飞,http://txtest-xp2p.p2p.huya.com/src/1099531627808-1099531627808-85899483358953472-2199063379072-10057-A-0-1.xs?wsSecret=2e0deb0566a05048cdfb649b6b9fafb8&wsTime=6246cbb7&u=0&seqid=16487204372300000&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103
-战界之力 战界之力-大众拳击体育馆内赛,http://txtest-xp2p.p2p.huya.com/src/0-0-0-2399154152386-10057-A-0-1.xs?wsSecret=7d9542f8af23ceb5668d43736586d622&wsTime=6246cbb8&u=0&seqid=16487204385550000&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&t=103
-奶油芊芊 忍者摔跤大赛，体育修行只为今日,http://txtest-xp2p.p2p.huya.com/src/1099531627809-1099531627809-85899487653920768-2199063379074-10057-A-0-1.xs?wsSecret=5a99a56a83cf24ba7371f889bad1cafb&wsTime=6246cbbb&u=0&seqid=16487204413320000&ctype=tars_mobile&fs=bgct&t=103
-圭足球专场 体育拉圭足球专场,http://txtest-xp2p.p2p.huya.com/src/1099531728832-1099531728832-86333378135064576-2199063581120-10057-A-0-1.xs?wsSecret=34f269dac1d687bb5f7263a6de20f02c&wsTime=6246cbbe&u=0&seqid=16487204447030000&ctype=tars_mobile&fs=bgct&t=103
-WWE精彩视频秀李霞独家专访！体育首位WWE中国之星驾到,http://txtest-xp2p.p2p.huya.com/src/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs?wsSecret=8070de640979f458f93712105d1e7dd9&wsTime=6246cbc1&u=0&seqid=16487204475860000&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103
-德国足球甲级联赛副舞台 莱比锡恶战多特    2021/22德甲联赛,http://txtest-xp2p.p2p.huya.com/src/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.xs?wsSecret=8801376a500a8429e3216cf871545f7d&wsTime=6246cbc3&u=0&seqid=16487204498990000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
-大眼妹兔兔 这样的啦啦队你爱了吗~体育,http://txtest-xp2p.p2p.huya.com/src/1099531728616-1099531728616-86332450422128640-2199063580688-10057-A-0-1.xs?wsSecret=b12104bdc77d4d5547922b9997b4ebcd&wsTime=6246cbc5&u=0&seqid=16487204510690000&ctype=tars_mobile&fs=bgct&t=103
-德甲赛事回顾1 德甲周刊第18期体育,http://txtest-xp2p.p2p.huya.com/src/1099531728788-1099531728788-86333189156503552-2199063581032-10057-A-0-1.xs?wsSecret=6745374bcdc4570ee2bcc119f3d891d6&wsTime=6246cbc6&u=0&seqid=16487204526820000&ctype=tars_mobile&fs=bgct&t=103
-后浪-大祭司 你不知道的川藏线旅体育行,http://txtest-xp2p.p2p.huya.com/src/1199566096018-1199566096018-5455555222740926464-2399132315492-10057-A-0-1.xs?wsSecret=ec6f41bce86545d874bfb29e4b1bd8e8&wsTime=6246cbca&u=0&seqid=16487204567970000&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103
-德国足球甲级联赛4 斯图加特3:1霍芬海姆 2021/22德甲联赛,http://txtest-xp2p.p2p.huya.com/src/0-0-0-2199063580970-10057-A-0-1.xs?wsSecret=181a901613fe2a0d155458d26d3b26b5&wsTime=6246cbd6&u=0&seqid=16487204689760000&ctype=tars_mobile&txyp=o%3An111%3B&fs=bgct&t=103
-蜜桃同学 十分钟站立减肥操体育,http://txtest-xp2p.p2p.huya.com/src/1199549075839-1199549075839-5382454110563860480-2399098275134-10057-A-0-1.xs?wsSecret=1505c46dea949cf1c7b14f1e53c1a91c&wsTime=6246cbdb&u=0&seqid=16487204738060000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
-德甲比赛精华1 德甲比赛精华体育,http://txtest-xp2p.p2p.huya.com/src/1099531728802-1099531728802-86333249286045696-2199063581060-10057-A-0-1.xs?wsSecret=3bc33d94704bf23ca8b52da6f12acfa7&wsTime=6246cbe0&u=0&seqid=16487204789070000&ctype=tars_mobile&fs=bgct&t=103?体育
-世界不一样呀大棒槌”驴蹄一步一崴真难受，一刀到底切大块，脚底严重腐烂体育！,http://txtest-xp2p.p2p.huya.com/src/1099531728593-1099531728593-86332351637880832-2199063580642-10057-A-0-1.xs?wsSecret=7304b0ca514e6b8768c67688951c1c46&wsTime=6246cbe4&u=0&seqid=16487204821390000&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&t=103
-T台可人儿 男女互抽巴掌，扇到头破血流体育,http://txtest-xp2p.p2p.huya.com/src/1099531739996-1099531739996-86381327149957120-2199063603448-10057-A-0-1.xs?wsSecret=4e346b65c0d86c6a792434be0ea74bd5&wsTime=6246cbe5&u=0&seqid=16487204839750000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
-少林功夫网络考功 2022少林功夫网络考功大赛 重播体育,http://txtest-xp2p.p2p.huya.com/src/1099531728991-1099531728991-86334061034864640-2199063581438-10057-A-0-1.xs?wsSecret=4c563887a64e2b5ce3ae97c02d8e967a&wsTime=6246cbe9&u=0&seqid=16487204875480000&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103
-模拟赛车 第6站体育！电动方程式锦标赛ACCELERATE电竞赛,http://txtest-xp2p.p2p.huya.com/src/1099531740125-1099531740125-86381881200738304-2199063603706-10057-A-0-1.xs?wsSecret=08e8ce0b8218cb981a995a0ef5577798&wsTime=6246cbec&u=0&seqid=16487204904360000&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&t=103
-德国足球甲级联赛3 体育柏林赫塔1:2弗莱堡 2021/22赛季德甲,http://txtest-xp2p.p2p.huya.com/src/0-0-0-2199063580968-10057-A-0-1.xs?wsSecret=261a70b3135d9c9d1bf3a73511ccf08a&wsTime=6246cbf1&u=0&seqid=16487204954150000&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&t=103
-斯克业余大师总决赛丁俊晖，体育你为什么这么秀！,http://txtest-xp2p.p2p.huya.com/src/1099531728533-1099531728533-86332093939843072-2199063580522-10057-A-0-1.xs?wsSecret=43e40e2d2ae0cb32ba2e983f30ec019a&wsTime=6246cbf5&u=0&seqid=16487204994790000&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&t=103
-开心老师 瑜伽老师体育,http://txtest-xp2p.p2p.huya.com/src/1279521993636-1279521993636-16822127287603298304-2559044110728-10057-A-0-1.xs?wsSecret=b0827b729089e979e2f75270aa80db59&wsTime=6246cbf7&u=0&seqid=16487205012240000&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103
-帅soserious 吃出6块腹肌！10种食物帮你快速减脂！体育新手必看！,http://txtest-xp2p.p2p.huya.com/src/1299518413687-1299518413687-10472377075179192320-2599036950830-10057-A-0-1.xs?wsSecret=38aeb6f72fe50ae5a77f0cea6ded4157&wsTime=6246cbfa&u=0&seqid=16487205047740000&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103
-足协杯广州专场 哥伦比亚足球专场体育,http://txtest-xp2p.p2p.huya.com/src/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs?wsSecret=6ef8bc28488859aeefcaefef269a5454&wsTime=6246cbfb&u=0&seqid=16487205059010000&ctype=tars_mobile&fs=bgct&t=103
-2020全国游泳锦标赛洪荒少女傅园慧！全国游泳冠军赛,http://txtest-xp2p.p2p.huya.com/src/1099531627797-1099531627797-85899436114313216-2199063379050-10057-A-0-1.xs?wsSecret=cc9b9bca3ed3c44a1e0ccbde48721201&wsTime=6246cc00&u=0&seqid=16487205106540000&ctype=tars_mobile&fs=bgct&t=103?体育
-EQUALIZER #草廠格鬥傳說# 体育2020 还有谁-寻找传说 原创剧集,http://txtest-xp2p.p2p.huya.com/src/1299516584312-1299516584312-10464519969382072320-2599033292080-10057-A-0-1.xs?wsSecret=7793d54bd2511bbb398c05699ae9c82a&wsTime=6246cc02&u=0&seqid=16487205129600000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
-欧尼酱 上肢力量感知 · 体育30X4组,http://txtest-xp2p.p2p.huya.com/src/1099531627837-1099531627837-85899607913005056-2199063379130-10057-A-0-1.xs?wsSecret=95b208895e6169ae13422c820274e4bd&wsTime=6246cc04&u=0&seqid=16487205142710000&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&t=103
-洪豆豆 腿1部力量强化体育 35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627854-1099531627854-85899680927449088-2199063379164-10057-A-0-1.xs?wsSecret=3cc0ebd32a9ccd691334ff5e86bf7d50&wsTime=6246cc05&u=0&seqid=16487205154400000&ctype=tars_mobile&fs=bgct&t=103
-特立独行 全身循环 体育35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627852-1099531627852-85899672337514496-2199063379160-10057-A-0-1.xs?wsSecret=6c7a5fd3260744c74c37b18a2bd8d7a1&wsTime=6246cc06&u=0&seqid=16487205166020000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
-是你的奶糖呀挨饿德——体育一个永远吃不饱的男人,http://txtest-xp2p.p2p.huya.com/src/1099531740251-1099531740251-86382422366617600-2199063603958-10057-A-0-1.xs?wsSecret=30254047291e3ea33c134df764287d05&wsTime=6246cc07&u=0&seqid=16487205178440000&ctype=tars_mobile&fs=bgct&t=103
-大胖兔 上腹燃脂体育 35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627853-1099531627853-85899676632481792-2199063379162-10057-A-0-1.xs?wsSecret=6366c80460353d6657334dc9e6641b70&wsTime=6246cc08&u=0&seqid=16487205190020000&ctype=tars_mobile&fs=bgct&t=103
-一修铁拳 搏击燃脂真可以吗？体育,http://txtest-xp2p.p2p.huya.com/src/1199564875935-1199564875935-5450315006157520896-2399129875326-10057-A-0-1.xs?wsSecret=d925b1fff497b88ceb7d7a8bf7e55d02&wsTime=6246cc0a&u=0&seqid=16487205202130000&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&t=103
-胖大星 15分钟全身燃脂体育操,http://txtest-xp2p.p2p.huya.com/src/1099531627844-1099531627844-85899637977776128-2199063379144-10057-A-0-1.xs?wsSecret=e128c0045bc2a748bdc2399a190ff34c&wsTime=6246cc0e&u=0&seqid=16487205245230000&ctype=tars_mobile&fs=bgct&t=103
-肌吾霸 核心力量强化 体育35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627851-1099531627851-85899668042547200-2199063379158-10057-A-0-1.xs?wsSecret=8e73c3987a7c8624648338c88515bb38&wsTime=6246cc0f&u=0&seqid=16487205258180000&ctype=tars_mobile&fs=bgct&t=103
-Kory-x 腿高度训练 体育40X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627846-1099531627846-85899646567710720-2199063379148-10057-A-0-1.xs?wsSecret=cfa66a6e252d5c25d290a0cd0b1aebf3&wsTime=6246cc10&u=0&seqid=16487205269310000&ctype=tars_mobile&fs=bgct&t=103
-我要航海网 阿铁船长的独体育白,http://txtest-xp2p.p2p.huya.com/src/1199539387568-1199539387568-5340843303464075264-2399078898592-10057-A-0-1.xs?wsSecret=3ed212a47af195e209f1ea5e75f01088&wsTime=6246cc11&u=0&seqid=16487205281250000&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103
-南城以北 5分钟零基础热身训练体育 30X4组,http://txtest-xp2p.p2p.huya.com/src/1099531627833-1099531627833-85899590733135872-2199063379122-10057-A-0-1.xs?wsSecret=cab8213bb0e1b2762dddd505ad5b724c&wsTime=6246cc13&u=0&seqid=16487205293590000&ctype=tars_mobile&fs=bgct&t=103
-小赛车-大世界 小小马体育,http://txtest-xp2p.p2p.huya.com/src/1199544921112-1199544921112-5364609693975052288-2399089965680-10057-A-0-1.xs?wsSecret=27fa1ed2dcccefd919361f1ff0d268dc&wsTime=6246cc14&u=0&seqid=16487205304870000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
-新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 
 📚｜iHOT,#genre#
 iHOT爱院线,http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
@@ -1034,6 +1047,61 @@ CCTV8电视剧,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878356
 怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
 武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
+
+
+🐳｜斗鱼,#genre#
+罗翔法考,https://live.52sf.ga/douyu/8805#https://liveb.52sf.ga/douyu/8805
+张雪峰考研,https://live.52sf.ga/douyu/961020#https://liveb.52sf.ga/douyu/961020
+四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
+体育,http://pull-g.kktv8.com/livekktv/57588147.flv
+HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
+WWE清流1路 WWE往期精彩节目清流 体育每晚九点直播,http://txtest-xp2p.p2p.huya.com/src/1099531728844-1099531728844-86333429674672128-2199063581144-10057-A-0-1.xs?wsSecret=23e937bf5f8a82d5367679fbd94c00be&wsTime=6246cb81&u=0&seqid=16487203839200000&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103
+冲刺吧丢小丢 灌篮高手漫画速体育读,http://txtest-xp2p.p2p.huya.com/src/1099531627798-1099531627798-85899440409280512-2199063379052-10057-A-0-1.xs?wsSecret=8132ca5d918f77af1c66b25415f6b4c3&wsTime=6246cb8b&u=0&seqid=16487203935400000&ctype=tars_mobile&fs=bgct&t=103
+看我的箭准不准 原始生存40天，体育大佬组队PK,http://txtest-xp2p.p2p.huya.com/src/1099531627787-1099531627787-85899393164640256-2199063379030-10057-A-0-1.xs?wsSecret=1f4b09f389f11af0d205a70ca0a4c7af&wsTime=6246cb8f&u=0&seqid=16487203971330000&ctype=tars_mobile&fs=bgct&t=103
+足协杯上海专场 玻利维亚足球专场体育,http://txtest-xp2p.p2p.huya.com/src/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs?wsSecret=15b1eb28dc39ad6c322f148b7e6e0418&wsTime=6246cba6&u=0&seqid=16487204206960000&ctype=tars_mobile&fs=bgct&t=103
+格斗迷-小亮 地域牢笼！铁笼赛专场体育！,http://txtest-xp2p.p2p.huya.com/src/1099531627899-1099531627899-85899874200977408-2199063379254-10057-A-0-1.xs?wsSecret=c839f2de2c5f2a36245d4e37a0b920d2&wsTime=6246cba9&u=0&seqid=16487204234400000&ctype=tars_mobile&fs=bgct&t=103
+多特蒙德专场 21/22德甲多特专场,http://txtest-xp2p.p2p.huya.com/src/1099531728771-1099531728771-86333116142059520-2199063580998-10057-A-0-1.xs?wsSecret=8970b533023ef8c64cf241a7233f45b4&wsTime=6246cbad&u=0&seqid=16487204275270000&ctype=tars_mobile&fs=bgct&t=103
+美洲杯小剧场 一步之遥？体育丈量内马尔与梅西之间的距离,http://txtest-xp2p.p2p.huya.com/src/1099531728838-1099531728838-86333403904868352-2199063581132-10057-A-0-1.xs?wsSecret=e421ea01b4feec4d8eb6b4323d0d5f4f&wsTime=6246cbaf&u=0&seqid=16487204298560000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
+厄瓜多尔足球专场 体育厄瓜多尔足球专场,http://txtest-xp2p.p2p.huya.com/src/1099531728831-1099531728831-86333373840097280-2199063581118-10057-A-0-1.xs?wsSecret=474d4839f57cc019cb12b6236f640af4&wsTime=6246cbb4&u=0&seqid=16487204343420000&ctype=tars_mobile&fs=bgct&t=103
+拳迷豪哥 超震撼裸拳擂台对决 体育拳拳到肉 血沫横飞,http://txtest-xp2p.p2p.huya.com/src/1099531627808-1099531627808-85899483358953472-2199063379072-10057-A-0-1.xs?wsSecret=2e0deb0566a05048cdfb649b6b9fafb8&wsTime=6246cbb7&u=0&seqid=16487204372300000&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103
+战界之力 战界之力-大众拳击体育馆内赛,http://txtest-xp2p.p2p.huya.com/src/0-0-0-2399154152386-10057-A-0-1.xs?wsSecret=7d9542f8af23ceb5668d43736586d622&wsTime=6246cbb8&u=0&seqid=16487204385550000&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&t=103
+奶油芊芊 忍者摔跤大赛，体育修行只为今日,http://txtest-xp2p.p2p.huya.com/src/1099531627809-1099531627809-85899487653920768-2199063379074-10057-A-0-1.xs?wsSecret=5a99a56a83cf24ba7371f889bad1cafb&wsTime=6246cbbb&u=0&seqid=16487204413320000&ctype=tars_mobile&fs=bgct&t=103
+圭足球专场 体育拉圭足球专场,http://txtest-xp2p.p2p.huya.com/src/1099531728832-1099531728832-86333378135064576-2199063581120-10057-A-0-1.xs?wsSecret=34f269dac1d687bb5f7263a6de20f02c&wsTime=6246cbbe&u=0&seqid=16487204447030000&ctype=tars_mobile&fs=bgct&t=103
+WWE精彩视频秀李霞独家专访！体育首位WWE中国之星驾到,http://txtest-xp2p.p2p.huya.com/src/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs?wsSecret=8070de640979f458f93712105d1e7dd9&wsTime=6246cbc1&u=0&seqid=16487204475860000&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103
+德国足球甲级联赛副舞台 莱比锡恶战多特    2021/22德甲联赛,http://txtest-xp2p.p2p.huya.com/src/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.xs?wsSecret=8801376a500a8429e3216cf871545f7d&wsTime=6246cbc3&u=0&seqid=16487204498990000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
+大眼妹兔兔 这样的啦啦队你爱了吗~体育,http://txtest-xp2p.p2p.huya.com/src/1099531728616-1099531728616-86332450422128640-2199063580688-10057-A-0-1.xs?wsSecret=b12104bdc77d4d5547922b9997b4ebcd&wsTime=6246cbc5&u=0&seqid=16487204510690000&ctype=tars_mobile&fs=bgct&t=103
+德甲赛事回顾1 德甲周刊第18期体育,http://txtest-xp2p.p2p.huya.com/src/1099531728788-1099531728788-86333189156503552-2199063581032-10057-A-0-1.xs?wsSecret=6745374bcdc4570ee2bcc119f3d891d6&wsTime=6246cbc6&u=0&seqid=16487204526820000&ctype=tars_mobile&fs=bgct&t=103
+后浪-大祭司 你不知道的川藏线旅体育行,http://txtest-xp2p.p2p.huya.com/src/1199566096018-1199566096018-5455555222740926464-2399132315492-10057-A-0-1.xs?wsSecret=ec6f41bce86545d874bfb29e4b1bd8e8&wsTime=6246cbca&u=0&seqid=16487204567970000&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103
+德国足球甲级联赛4 斯图加特3:1霍芬海姆 2021/22德甲联赛,http://txtest-xp2p.p2p.huya.com/src/0-0-0-2199063580970-10057-A-0-1.xs?wsSecret=181a901613fe2a0d155458d26d3b26b5&wsTime=6246cbd6&u=0&seqid=16487204689760000&ctype=tars_mobile&txyp=o%3An111%3B&fs=bgct&t=103
+蜜桃同学 十分钟站立减肥操体育,http://txtest-xp2p.p2p.huya.com/src/1199549075839-1199549075839-5382454110563860480-2399098275134-10057-A-0-1.xs?wsSecret=1505c46dea949cf1c7b14f1e53c1a91c&wsTime=6246cbdb&u=0&seqid=16487204738060000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
+德甲比赛精华1 德甲比赛精华体育,http://txtest-xp2p.p2p.huya.com/src/1099531728802-1099531728802-86333249286045696-2199063581060-10057-A-0-1.xs?wsSecret=3bc33d94704bf23ca8b52da6f12acfa7&wsTime=6246cbe0&u=0&seqid=16487204789070000&ctype=tars_mobile&fs=bgct&t=103?体育
+世界不一样呀大棒槌”驴蹄一步一崴真难受，一刀到底切大块，脚底严重腐烂体育！,http://txtest-xp2p.p2p.huya.com/src/1099531728593-1099531728593-86332351637880832-2199063580642-10057-A-0-1.xs?wsSecret=7304b0ca514e6b8768c67688951c1c46&wsTime=6246cbe4&u=0&seqid=16487204821390000&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&t=103
+T台可人儿 男女互抽巴掌，扇到头破血流体育,http://txtest-xp2p.p2p.huya.com/src/1099531739996-1099531739996-86381327149957120-2199063603448-10057-A-0-1.xs?wsSecret=4e346b65c0d86c6a792434be0ea74bd5&wsTime=6246cbe5&u=0&seqid=16487204839750000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
+少林功夫网络考功 2022少林功夫网络考功大赛 重播体育,http://txtest-xp2p.p2p.huya.com/src/1099531728991-1099531728991-86334061034864640-2199063581438-10057-A-0-1.xs?wsSecret=4c563887a64e2b5ce3ae97c02d8e967a&wsTime=6246cbe9&u=0&seqid=16487204875480000&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103
+模拟赛车 第6站体育！电动方程式锦标赛ACCELERATE电竞赛,http://txtest-xp2p.p2p.huya.com/src/1099531740125-1099531740125-86381881200738304-2199063603706-10057-A-0-1.xs?wsSecret=08e8ce0b8218cb981a995a0ef5577798&wsTime=6246cbec&u=0&seqid=16487204904360000&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&t=103
+德国足球甲级联赛3 体育柏林赫塔1:2弗莱堡 2021/22赛季德甲,http://txtest-xp2p.p2p.huya.com/src/0-0-0-2199063580968-10057-A-0-1.xs?wsSecret=261a70b3135d9c9d1bf3a73511ccf08a&wsTime=6246cbf1&u=0&seqid=16487204954150000&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&t=103
+斯克业余大师总决赛丁俊晖，体育你为什么这么秀！,http://txtest-xp2p.p2p.huya.com/src/1099531728533-1099531728533-86332093939843072-2199063580522-10057-A-0-1.xs?wsSecret=43e40e2d2ae0cb32ba2e983f30ec019a&wsTime=6246cbf5&u=0&seqid=16487204994790000&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&t=103
+开心老师 瑜伽老师体育,http://txtest-xp2p.p2p.huya.com/src/1279521993636-1279521993636-16822127287603298304-2559044110728-10057-A-0-1.xs?wsSecret=b0827b729089e979e2f75270aa80db59&wsTime=6246cbf7&u=0&seqid=16487205012240000&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103
+帅soserious 吃出6块腹肌！10种食物帮你快速减脂！体育新手必看！,http://txtest-xp2p.p2p.huya.com/src/1299518413687-1299518413687-10472377075179192320-2599036950830-10057-A-0-1.xs?wsSecret=38aeb6f72fe50ae5a77f0cea6ded4157&wsTime=6246cbfa&u=0&seqid=16487205047740000&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103
+足协杯广州专场 哥伦比亚足球专场体育,http://txtest-xp2p.p2p.huya.com/src/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs?wsSecret=6ef8bc28488859aeefcaefef269a5454&wsTime=6246cbfb&u=0&seqid=16487205059010000&ctype=tars_mobile&fs=bgct&t=103
+2020全国游泳锦标赛洪荒少女傅园慧！全国游泳冠军赛,http://txtest-xp2p.p2p.huya.com/src/1099531627797-1099531627797-85899436114313216-2199063379050-10057-A-0-1.xs?wsSecret=cc9b9bca3ed3c44a1e0ccbde48721201&wsTime=6246cc00&u=0&seqid=16487205106540000&ctype=tars_mobile&fs=bgct&t=103?体育
+EQUALIZER #草廠格鬥傳說# 体育2020 还有谁-寻找传说 原创剧集,http://txtest-xp2p.p2p.huya.com/src/1299516584312-1299516584312-10464519969382072320-2599033292080-10057-A-0-1.xs?wsSecret=7793d54bd2511bbb398c05699ae9c82a&wsTime=6246cc02&u=0&seqid=16487205129600000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
+欧尼酱 上肢力量感知 · 体育30X4组,http://txtest-xp2p.p2p.huya.com/src/1099531627837-1099531627837-85899607913005056-2199063379130-10057-A-0-1.xs?wsSecret=95b208895e6169ae13422c820274e4bd&wsTime=6246cc04&u=0&seqid=16487205142710000&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&t=103
+洪豆豆 腿1部力量强化体育 35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627854-1099531627854-85899680927449088-2199063379164-10057-A-0-1.xs?wsSecret=3cc0ebd32a9ccd691334ff5e86bf7d50&wsTime=6246cc05&u=0&seqid=16487205154400000&ctype=tars_mobile&fs=bgct&t=103
+特立独行 全身循环 体育35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627852-1099531627852-85899672337514496-2199063379160-10057-A-0-1.xs?wsSecret=6c7a5fd3260744c74c37b18a2bd8d7a1&wsTime=6246cc06&u=0&seqid=16487205166020000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
+是你的奶糖呀挨饿德——体育一个永远吃不饱的男人,http://txtest-xp2p.p2p.huya.com/src/1099531740251-1099531740251-86382422366617600-2199063603958-10057-A-0-1.xs?wsSecret=30254047291e3ea33c134df764287d05&wsTime=6246cc07&u=0&seqid=16487205178440000&ctype=tars_mobile&fs=bgct&t=103
+大胖兔 上腹燃脂体育 35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627853-1099531627853-85899676632481792-2199063379162-10057-A-0-1.xs?wsSecret=6366c80460353d6657334dc9e6641b70&wsTime=6246cc08&u=0&seqid=16487205190020000&ctype=tars_mobile&fs=bgct&t=103
+一修铁拳 搏击燃脂真可以吗？体育,http://txtest-xp2p.p2p.huya.com/src/1199564875935-1199564875935-5450315006157520896-2399129875326-10057-A-0-1.xs?wsSecret=d925b1fff497b88ceb7d7a8bf7e55d02&wsTime=6246cc0a&u=0&seqid=16487205202130000&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&t=103
+胖大星 15分钟全身燃脂体育操,http://txtest-xp2p.p2p.huya.com/src/1099531627844-1099531627844-85899637977776128-2199063379144-10057-A-0-1.xs?wsSecret=e128c0045bc2a748bdc2399a190ff34c&wsTime=6246cc0e&u=0&seqid=16487205245230000&ctype=tars_mobile&fs=bgct&t=103
+肌吾霸 核心力量强化 体育35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627851-1099531627851-85899668042547200-2199063379158-10057-A-0-1.xs?wsSecret=8e73c3987a7c8624648338c88515bb38&wsTime=6246cc0f&u=0&seqid=16487205258180000&ctype=tars_mobile&fs=bgct&t=103
+Kory-x 腿高度训练 体育40X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627846-1099531627846-85899646567710720-2199063379148-10057-A-0-1.xs?wsSecret=cfa66a6e252d5c25d290a0cd0b1aebf3&wsTime=6246cc10&u=0&seqid=16487205269310000&ctype=tars_mobile&fs=bgct&t=103
+我要航海网 阿铁船长的独体育白,http://txtest-xp2p.p2p.huya.com/src/1199539387568-1199539387568-5340843303464075264-2399078898592-10057-A-0-1.xs?wsSecret=3ed212a47af195e209f1ea5e75f01088&wsTime=6246cc11&u=0&seqid=16487205281250000&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103
+南城以北 5分钟零基础热身训练体育 30X4组,http://txtest-xp2p.p2p.huya.com/src/1099531627833-1099531627833-85899590733135872-2199063379122-10057-A-0-1.xs?wsSecret=cab8213bb0e1b2762dddd505ad5b724c&wsTime=6246cc13&u=0&seqid=16487205293590000&ctype=tars_mobile&fs=bgct&t=103
+小赛车-大世界 小小马体育,http://txtest-xp2p.p2p.huya.com/src/1199544921112-1199544921112-5364609693975052288-2399089965680-10057-A-0-1.xs?wsSecret=27fa1ed2dcccefd919361f1ff0d268dc&wsTime=6246cc14&u=0&seqid=16487205304870000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
+新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 
 🐠｜斗Y1,#genre#
 斗鱼电影HD1,http://124.223.212.38:83/douyu/4246519
@@ -1827,66 +1895,6 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
 深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
 ####
-
-👶｜少儿,#genre#
-宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
-北京卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8?zbeid
-北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
-北京卡酷少儿,http://39.135.32.10:6610/000000001000/kakukaton/1.m3u8?IASHttpSessionId=OTT?zbeid
-北京少儿,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-倒霉熊,http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-动画电影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
-动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
-动画小天地,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-儿歌大全,http://118.26.120.23:55336/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
-哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
-哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
-哈哈炫动少儿,http://39.135.32.24:6610/000000001000/1000000002000000172/1.m3u8?xtkg
-14台少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
-14台少儿,http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8?zyangd
-14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
-奥特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
-宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
-河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
-黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
-嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
-嘉佳卡通,http://39.135.32.24:6610/000000001000/1000000002000025964/1.m3u8?xtkg
-江西少儿家庭,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls?zjiangxd
-江西少儿家庭,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?zjiangxd
-金鹰卡通,http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
-金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
-金鹰卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000016601/1.m3u8?xtkg
-卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
-卡酷少儿,http://39.135.32.24:6610/000000001000/7589856436881630561/1.m3u8?xtkg
-猫和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-名贞探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
-南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-宁波少儿,http://live1.cloud.nbtv.cn/f9af570c981c4c618f919ea91b93966f/h264_500k_ts/index.m3u8?type=flv2hls_m3u8?zzhed
-亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
-少儿14台,http://117.148.179.157/PLTV/88888888/224/3221231648/index.m3u8?zzhongd
-少儿14台,http://39.135.32.24:6610/000000001000/1000000001000008170/1.m3u8?i?zzhongd
-少儿14台,http://39.135.32.7:6610/000000001000/cctv-14/1.m3u8?IASHttpSessionId=OTT?zzhongd
-深圳少儿,http://ye23.win/iptv/sztv.php?id=7?zguangd
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-童年经典,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-玩具乐园,http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
-小猪佩寄,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
-小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-优漫卡通,http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
-优漫卡通少儿,http://39.135.32.24:6610/000000001000/1000000002000010063/1.m3u8?xtkg
-雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
-浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 
 🎏｜景区 ,#genre#
 峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
