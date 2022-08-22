@@ -20,9 +20,7 @@
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 山东文旅,http://119.164.216.162:9901/tsfile/live/1004_1.m3u8
 山东新闻,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
-济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8
-济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
-济南少儿,http://39.136.48.8:8089/PLTV/88888888/224/3221225979/index.m3u8
+济南新闻,http://119.164.216.162:9901/tsfile/live/1011_1.m3u8
 
 👍｜4K,#genre#
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
