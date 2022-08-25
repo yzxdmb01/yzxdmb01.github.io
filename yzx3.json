@@ -557,7 +557,8 @@
 
 "spider2":"https://liu673cn.coding.net/p/x/d/TVbox/git/raw/main/jar/custom_spider.jar",
 "spider":"https://raw.githubusercontents.com/yzxdmb01/yzxdmb01.github.io/master/custom_spider3.jar",
-"wallpaper":"https://picsum.photos/1920/1080/?blur=10",
+//"wallpaper":"https://picsum.photos/1920/1080/?blur=10",
+"wallpaper":https://gitee.com/Chicken_Yummy/image-repository/raw/master/black.png,
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
